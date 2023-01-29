@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\akaan\Desktop\C++\linkedLists\linkedLists\Kaynak.cpp(283,14): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+  linkedLists.vcxproj -> C:\Users\akaan\Desktop\C++\linkedLists\x64\Debug\linkedLists.exe
